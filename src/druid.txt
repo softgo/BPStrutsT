@@ -1,0 +1,8 @@
+1.druid在线阅读：
+http://tool.oschina.net/apidocs/apidoc?api=druid0.26
+http://www.open-open.com/lib/view/open1430558786084.html
+http://blog.csdn.net/yunnysunny/article/details/8657095
+http://wenshao.iteye.com/blog/1670047
+
+2.访问监控页面
+http://localhost:8080/BPStrutsT/druid/index.html
